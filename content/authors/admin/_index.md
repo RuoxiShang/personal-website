@@ -26,7 +26,7 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Human Centered Design & Engineering
+  - course: PhD in HCDE
     institution: University of Washington
     year: Expected 2025
   - course: BA in Applied Mathematics, Statistics
