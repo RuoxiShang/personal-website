@@ -13,8 +13,12 @@ superuser: true
 role: PhD Candidate
 # Organizations/Affiliations
 organizations:
-- name: University of Washington, Human Centered Design & Engineering (HCDE) Department
+- name: University of Washington
+  url: ""
+- name: Human Centered Design & Engineering (HCDE) Department
   url: "https://www.hcde.washington.edu/"
+- name: Human Centered Data Science Lab
+  url: "https://depts.washington.edu/hdsl/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -57,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rxshang AT uw DOT edu"
+email: "rxshang@uw.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
