@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Human-Centered Data Science Lab"
   company_url = "https://depts.washington.edu/hdsl/"
   location = "Seattle, WA"
-  date_start = "2020-09"
+  date_start = "2020-09-30"
   date_end = "Present"
   description = """
   Analyze large-scale text data with Natural Language Processing (NLP) and Machine Learning (ML) algorithms to explore the reciprocity of writing reviews in the online FanFiction community.
