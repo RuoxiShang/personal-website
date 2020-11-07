@@ -24,8 +24,27 @@ date_format = "Jan 2006"
   location = "Seattle, WA"
   date_start = "2020-09-30"
   date_end = ""
-  description = """Analyze large-scale text data with Natural Language Processing (NLP) and Machine Learning (ML) algorithms to explore the reciprocity of writing reviews in the online FanFiction community."""
+  description = """
+  Distributed Mentoring in Online FanFiction Community - Large-scale Text Data Analysis with Human-centered NLP
+  * Apply Network Analysis on review interaction among authors in the online FanFiction Community
+  * Perform Regression Analysis on review reciprocity factors
+  * Fine-tune various state-of-art NLP models (e.g. BERT, RoBERTa, XLNet) to optimize classification performance on review categories
+  * Apply Task Adaptive Pre-training on RoBERTa to boost performance 
+  """
 
+[[experience]]
+  title = "Data Science Associate"
+  company = "BioTesseract"
+  company_url = "https://www.biotesseract.ai/eng"
+  location = ""
+  date_start = "2018-01-01"
+  date_end = "2020-08-01"
+  description = """
+  Contributions:
+  * Trained a set of ML models (e.g. KNN, SVM, Random Forest, XGBoost, etc.) on waste input and biogas output data to build a predictive model that help biogas facilities enhance their operational productivity.  model was applied to an open-source Python-based web application.
+  *	Collaborated with new researchers to train and optimize the previously proposed machine learning predictive system with larger available data for better results.
+  *	Used NLP models to explore trends in patent innovation activity related to fertilizers for global agriculture."""
+  
 [[experience]]
   title = "Data Science Associate"
   company = "BioTesseract"
