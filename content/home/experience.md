@@ -58,4 +58,19 @@ date_format = "Jan 2006"
   *	Analyzed the color clustering of the dataset and detected anomalies and homogeneity in the color scheme used and objects depicted
 in the image representation of cybersecurity."""
 
+[[experience]]
+  title = "Research Intern"
+  company = "Berkely Institute for Data Science | UC Berkeley"
+  company_url = "https://bids.berkeley.edu/publications/rapid-gamma-ray-burst-localization-aboard-e-astrogam-satellite-using-3d-convolutional"
+  location = ""
+  date_start = "2019-01-01"
+  date_end = "2019-12-01"
+  description = """
+  Rapid Gamma-Ray Burst Localization with Deep Learning 
+  * Implemented a deep learning 3D convolutional neural network architecture with TensorFlow based on the idea of VoxNet to improve the data analysis pipeline for Compton telescopes (e.g. COSI, AMEGO).
+  * Proposed improvements for the 3D convolution network layout and achieved an 82% decrease in RMS Angular Deviation
+for prediction accuracy.
+  *	Applied a similar methodology to localize the origin of Compton-scattered gamma-rays from the Gamma-Ray Bursts with
+the detection of gravitational waves."""
+
 +++
