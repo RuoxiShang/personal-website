@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-05-01"
   description = """
-  Contributions:
+  Cybersecurity Imagery
   * Performed exploratory data analysis on the Cybersecurity Imagery Dataset with the purpose to identify trend, abnormity and other features from findings to provide future researchers, policymakers, and the general public with a baseline understanding of how cybersecurity is depicted overtime 
   * Applied deep learning CV models pre-trained on ImageNet to extract the feature distribution from the Cybersecurity Dataset (two years of Google Image Search results).
   *	Analyzed the color clustering of the dataset and detected anomalies and homogeneity in the color scheme used and objects depicted
