@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-09-30"
   date_end = ""
   description = """
-  Distributed Mentoring in Online FanFiction Community - Large-scale Text Data Analysis with Human-centered NLP
+  Distributed Mentoring in Online FanFiction Community via Large-scale Text Data Analysis with Human-centered NLP
   * Apply Network Analysis on review interaction among authors in the online FanFiction Community
-  * Perform Regression Analysis on review reciprocity factors
+  * Perform Regression Analysis on features of review reciprocity
   * Fine-tune various state-of-art NLP models (e.g. BERT, RoBERTa, XLNet) to optimize classification performance on review categories
   * Apply Task Adaptive Pre-training on RoBERTa to boost performance 
   """
@@ -40,22 +40,22 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2020-08-01"
   description = """
-  Contributions:
+  Machien Learning Powered Biogas Production Optimization
   * Trained a set of ML models (e.g. KNN, SVM, Random Forest, XGBoost, etc.) on waste input and biogas output data to build a predictive model that help biogas facilities enhance their operational productivity.  model was applied to an open-source Python-based web application.
-  *	Collaborated with new researchers to train and optimize the previously proposed machine learning predictive system with larger available data for better results.
-  *	Used NLP models to explore trends in patent innovation activity related to fertilizers for global agriculture."""
+  *	Collaborated with new researchers to train and optimize the previously proposed machine learning predictive system with larger available data for better results."""
   
 [[experience]]
-  title = "Data Science Associate"
-  company = "BioTesseract"
-  company_url = "https://www.biotesseract.ai/eng"
+  title = "Research Intern"
+  company = "Daylight Security Research Lab | Center for Long-Term Cybersecurity | UC Berkeley"
+  company_url = "https://daylight.berkeley.edu/representations/"
   location = ""
-  date_start = "2018-01-01"
-  date_end = "2020-08-01"
+  date_start = "2019-05-01"
+  date_end = "2020-05-01"
   description = """
   Contributions:
-  * Trained a set of ML models (e.g. KNN, SVM, Random Forest, XGBoost, etc.) on waste input and biogas output data to build a predictive model that help biogas facilities enhance their operational productivity.  model was applied to an open-source Python-based web application.
-  *	Collaborated with new researchers to train and optimize the previously proposed machine learning predictive system with larger available data for better results.
-  *	Used NLP models to explore trends in patent innovation activity related to fertilizers for global agriculture."""
+  * Performed exploratory data analysis on the Cybersecurity Imagery Dataset with the purpose to identify trend, abnormity and other features from findings to provide future researchers, policymakers, and the general public with a baseline understanding of how cybersecurity is depicted overtime 
+  * Applied deep learning CV models pre-trained on ImageNet to extract the feature distribution from the Cybersecurity Dataset (two years of Google Image Search results).
+  *	Analyzed the color clustering of the dataset and detected anomalies and homogeneity in the color scheme used and objects depicted
+in the image representation of cybersecurity."""
 
 +++
