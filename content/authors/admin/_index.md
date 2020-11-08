@@ -19,6 +19,7 @@ organizations:
   url: "https://www.hcde.washington.edu/"
 - name: Human Centered Data Science Lab
   url: "https://depts.washington.edu/hdsl/"
+- name: Email: rxshang at uw dot edu
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
