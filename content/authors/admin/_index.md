@@ -19,7 +19,6 @@ organizations:
   url: "https://www.hcde.washington.edu/"
 - name: Human Centered Data Science Lab
   url: "https://depts.washington.edu/hdsl/"
-- name: rxshang at uw dot edu
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -74,4 +73,6 @@ highlight_name: false
 # - Visitors
 ---
 
-My research interest lies in the intersection of Data Science and Human-centered Approach. I apply Machine Learning (ML) and Natural Language Processing (NLP) algorithms to solve human-centered problems. Currently I'm working with Dr. Cecilia Aragon in her Human-centered Data Science Lab, exploring ways to better understand Distributed Learning in online FanFiction community with large-scale text data analysis.
+My research interest lies in the intersection of Data Science and Human-centered Approach. I apply Machine Learning (ML) and Natural Language Processing (NLP) algorithms to solve human-centered problems. Currently I'm working with Dr. Cecilia Aragon in her Human-centered Data Science Lab, exploring ways to better understand Distributed Learning in online FanFiction community with large-scale text data analysis. 
+
+Email Address: rxshang at uw dot edu
