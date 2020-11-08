@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: The search for appropriate models for predictive analytics is currently a high priority to optimize anaerobic fermentation processes in industrial-scale biogas facilities; operational productivity could be enhanced if project operators used the latest tools in machine learning to inform decision-making. 
+abstract: The search for appropriate models for predictive analytics is currently a high priority to optimize anaerobic fermentation processes in industrial-scale biogas facilities. The objective of this study is to enhance biogas production in industrial facilities by designing a graphical user interface to machine learning models capable of predicting biogas output given a set of waste inputs. The methodology involved applying predictive algorithms to daily production data from two major Chinese biogas facilities in order to understand the most important inputs affecting biogas production. This research has wide implications for biogas project operators seeking to enhance facility performance by incorporating machine learning into the analytical pipeline.
 
 # Summary. An optional shortened abstract.
 summary: Machine learning models applied to several years of daily biogas production data from Chinese projects. A user interface to the machine learning models was built with a varied stack of programming tools. The models allowed for accurate prediction of biogas production and determination of important inputs.
