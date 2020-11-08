@@ -11,7 +11,7 @@ authors:
 - Luis Caicedo
 - Kai Yuan
 author_notes:
--
+-''
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -25,7 +25,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Cleaner Production, 218 (2019): 390-399*"
 publication_short: ""
 
 abstract: The search for appropriate models for predictive analytics is currently a high priority to optimize anaerobic fermentation processes in industrial-scale biogas facilities. The objective of this study is to enhance biogas production in industrial facilities by designing a graphical user interface to machine learning models capable of predicting biogas output given a set of waste inputs. The methodology involved applying predictive algorithms to daily production data from two major Chinese biogas facilities in order to understand the most important inputs affecting biogas production. This research has wide implications for biogas project operators seeking to enhance facility performance by incorporating machine learning into the analytical pipeline.
@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Visualization of waste inputs and output predictions'
   focal_point: ""
   preview_only: false
 
@@ -79,4 +79,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math (https://sourcethemes.com/academic/docs/writing-markdown-latex/).
