@@ -11,8 +11,6 @@ authors:
 - Luis Caicedo
 - Kai Yuan
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
