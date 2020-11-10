@@ -34,7 +34,7 @@ abstract: The search for appropriate models for predictive analytics is currentl
 summary: Machine learning models applied to several years of daily biogas production data from Chinese projects. A user interface to the machine learning models was built with a varied stack of programming tools. The models allowed for accurate prediction of biogas production and determination of important inputs.
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:
