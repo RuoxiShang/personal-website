@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rxshang@uw.edu'
-- icon: academia
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=AFfJDWgAAAAJ&hl=en&oi=ao
 - icon: github
