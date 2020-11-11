@@ -60,7 +60,7 @@ in the image representation of cybersecurity."""
 
 [[experience]]
   title = "Research Intern"
-  company = "Berkely Institute for Data Science | UC Berkeley"
+  company = "Berkeley Institute for Data Science | UC Berkeley"
   company_url = "https://bids.berkeley.edu/publications/rapid-gamma-ray-burst-localization-aboard-e-astrogam-satellite-using-3d-convolutional"
   location = ""
   date_start = "2019-01-01"
