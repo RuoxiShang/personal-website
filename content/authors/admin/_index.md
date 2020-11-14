@@ -69,6 +69,6 @@ highlight_name: false
 # - Visitors
 ---
 
-My research interest lies in the intersection of Data Science and Human-centered Approach. I explore ways of addressing research problems that center around human experiences with quantitative methods. I am fascinated by the elegance of mathematical theories, and I seized the power of statistical inference and predictive modeling. My past research experiences revolve around the application of Machine Learning to improve systems and answer questions through finding patterns and enhancing predictability. Currently, I am exploring Natural Language Processing, Social Computing, and Network Analysis. I aspire to find ways to combine those methodologies to offer solutions to better human experience in large-scale communication and collaboration.
+My research interest lies in the intersection of Data Science and Human-centered Approach. I am fascinated by the elegance of mathematical theories, and I seized the power of statistical inference and predictive modeling. My past research experiences revolve around the application of Machine Learning to improve systems and answer questions through finding patterns and enhancing predictability. My long term research ambition is to address social equity problems related to bias and disparity in the research community. Currently, I am exploring large-scale online human communication and interaction with methods such as Natural Language Processing, Social Computing, and Network Analysis.
 
 Email Address: rxshang at uw dot edu
