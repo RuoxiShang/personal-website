@@ -35,7 +35,7 @@ summary: Machine learning models applied to several years of daily biogas produc
 
 tags:
 - 
-featured: false
+featured: true
 
 # links:
 # - name: ""
