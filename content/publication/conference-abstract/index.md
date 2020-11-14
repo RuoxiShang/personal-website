@@ -28,7 +28,7 @@ summary: This abstract reports on the implementation and testing of a 3D convolu
 
 tags:
 -
-featured: false
+featured: true
 
 # links:
 # - name: ""
