@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Courses"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,84 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "Data 100 - Principles & Techniques of Data Science"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "Stat 153 - Time Series"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "Stat 157 - Causal Inference"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "Stat 151 - Linear Modelling: Theory and Applications"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-02-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "INFO 159 - Natural Language Processing"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "CS 189 -	Machine Learning"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
   description = ""
+
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "IEOR 173 - Stochastic Processes"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "EECS 127 - Optimization Models in Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
+
 
 +++
