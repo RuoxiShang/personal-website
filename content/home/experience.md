@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2020-08-01"
   description = """
-  Machien Learning Powered Biogas Production Optimization
+  Machine Learning Powered Biogas Production Optimization
   * Trained a set of ML models (e.g. KNN, SVM, Random Forest, XGBoost, etc.) on waste input and biogas output data to build a predictive model that help biogas facilities enhance their operational productivity.  model was applied to an open-source Python-based web application.
   *	Collaborated with new researchers to train and optimize the previously proposed machine learning predictive system with larger available data for better results."""
   
