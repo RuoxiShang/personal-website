@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2019-12-01"
   description = ""
   
 [[item]]
@@ -138,4 +138,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "MATH 113 - Abstract Algebra"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = "2019-12-01"
+  description = "I was a grader for this course."
+  
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "MATH 55 - Discrete Mathematics"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-01"
+  date_end = "2019-08-01"
+  description = "I was a grader for this course."
 +++
