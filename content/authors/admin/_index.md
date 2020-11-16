@@ -52,9 +52,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rxshang@uw.edu"
@@ -72,3 +72,6 @@ highlight_name: false
 My research interest lies in the intersection of Data Science and Human-centered Approach. I am fascinated by the elegance of mathematical theories, and I seized the power of statistical inference and predictive modeling. My past research experiences revolve around the application of Machine Learning to improve systems and answer questions through finding patterns and enhancing predictability. My long term research ambition is to address social equity problems related to bias and disparity in the research community. Currently, I am exploring large-scale online human communication and interaction with methods such as Natural Language Processing, Social Computing, and Network Analysis.
 
 Email Address: rxshang at uw dot edu
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
