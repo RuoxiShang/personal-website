@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruoxi Shang
+title: Ruoxi Shang 商若曦
 
 # Username (this should match the folder name)
 authors:
