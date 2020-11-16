@@ -73,5 +73,5 @@ My research interest lies in the intersection of Data Science and Human-centered
 
 Email Address: rxshang at uw dot edu
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
